@@ -11,7 +11,7 @@ B:\S\Swe\DSi\rcp\Swr\Sub\Start.bat "..\Inp\Syn\BRS.[Syn202]-OPQ.[Syn204]-Tdr.txt
 
 ## Motivation
 
-Quellverzeichnisse auf Zielverzeichnisse spiegeln
+Quellverzeichnisse auf Zielverzeichnisse spiegeln, um Daten zu sichern.
 
 ## Installation
 
@@ -22,11 +22,11 @@ Quellverzeichnisse auf Zielverzeichnisse spiegeln
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+Überlege ich mir noch.
 
 ## Contributors
 
-Fragen entstehen womöglich, weil das Projekt noch nicht abgeschlossen. Sorry!
+Fragen entstehen womöglich schon deshalb, weil das Projekt noch hochgeladen wurde. Sorry!
 
 ## License
 
