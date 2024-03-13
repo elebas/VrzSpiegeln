@@ -26,7 +26,7 @@ Quellverzeichnisse auf Zielverzeichnisse spiegeln, um Daten zu sichern.
 
 ## Contributors
 
-Fragen entstehen womöglich schon deshalb, weil das Projekt noch hochgeladen wurde. Sorry!
+Fragen entstehen womöglich schon deshalb, weil das Projekt noch nicht hochgeladen wurde. Sorry!
 
 ## License
 
